@@ -1,0 +1,13 @@
+-- Made by RedFlames
+-- https://RedFlamesXbamz.github.io
+local WalkSpeed = 50 
+local JumpPower = 50 
+loca FOV = 50
+local  Duration = 5
+Wait(Duration)
+
+
+
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = WalkSpeed
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = JumpPower
+game.WorkSpace.Camera.currentCamera.FielDOfView = FOV
